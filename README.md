@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with decentralization 
 - 💬 Ask me about Solidity and Rust
 - 📫 How to reach me: milanbjegovic@gmail.com or LinkedIn -> https://www.linkedin.com/in/milanbjegovic/
-- ⚡ Fun fact: CEO at OldTimers Offer (blockchain project)
+- ⚡ Fun fact: CEO at OldTimers Offer (blockchain project) -> https://oldtimersoffer.com/
 
