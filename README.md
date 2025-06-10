@@ -1,10 +1,11 @@
 ## Hi there 👋
+I'm Milan Bjegović – a blockchain enthusiast and full-stack developer passionate about decentralized technologies.
 
-- 🔭 I’m currently working at TIMACUM Blockchain Systems (www.timacum.com) & Road Knights, Inc. (www.roadknights.us)
-- 🌱 I’m currently learning Rust and Kubernetes
-- 👯 I’m looking to collaborate on WEB3 and Rust projects
-- 🤔 I’m looking for help with decentralization 
-- 💬 Ask me about Solidity and Rust
+- 🔭 Currently working at: TIMACUM Blockchain Systems (www.timacum.com) & Road Knights, Inc. (www.roadknights.us)
+- 🌱 Currently learning Rust and Kubernetes
+- 👯 Looking to collaborate on: WEB3 and Rust projects
+- 🤔 Interested in: decentralization & distributed systems
+- 💬 Ask me about: Solidity and Rust
 - 📫 How to reach me: milanbjegovic@gmail.com or [LinkedIn](https://www.linkedin.com/in/milanbjegovic/)
-- ⚡ Fun fact: CEO at OldTimers Offer (blockchain project) -> [oldtimersoffer.com](https://oldtimersoffer.com/)
+- ⚡ Fun fact: I'm the CEO of a blockchain project called [OldTimers Offer](https://oldtimersoffer.com/)
 
