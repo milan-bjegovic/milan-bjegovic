@@ -7,5 +7,4 @@ I'm Milan Bjegović – a blockchain enthusiast and full-stack developer passion
 - 🤔 Interested in: decentralization & distributed systems
 - 💬 Ask me about: Solidity and Rust
 - 📫 How to reach me: milanbjegovic@gmail.com or [LinkedIn](https://www.linkedin.com/in/milanbjegovic/)
-- ⚡ Fun fact: I'm the CEO of a blockchain project called [OldTimers Offer](https://oldtimersoffer.com/)
-
+- 🚗 Founder of [OldTimers Offer](https://oldtimersoffer.com/): a Web3-powered classic vehicle marketplace
